@@ -1,1 +1,1 @@
-![Banner](smashBros/static/readMeBanner.png "Banner")
+![Banner](https://github.com/johncrescenzi/smashBros/blob/main/static/readMeBanner.png "Banner")
