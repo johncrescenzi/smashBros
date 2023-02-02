@@ -1,5 +1,8 @@
 <script>
-</script>
+    import { base } from "$app/paths";
+  </script>
+
+  <a href="{base}/about">About</a>
 <div class="grid-container">
     <figure class="characterIcon icon1">
         <img src="/characterIcons/1.png" class="iconImg" alt="Icon 1">
