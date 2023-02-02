@@ -268,6 +268,12 @@
     <figure class="characterIcon icon1">
         <img src="/characterIcons/82.png" class="iconImg" alt="Icon 1">
     </figure>
+    <figure class="characterIcon icon1">
+        <img src="/characterIcons/patreon.png" class="iconImg" alt="Icon 1">
+    </figure>
+    <figure class="characterIcon icon1">
+        <img src="/characterIcons/random.png" class="iconImg" alt="Icon 1">
+    </figure>
     <div class="form-control">
         <input type="text" placeholder="Search" class="input input-outline w-full">
     </div>
